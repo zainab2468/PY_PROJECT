@@ -5,7 +5,6 @@ print(reverse)
 
 
 
-
 #counting vowels in string
 word = "Irritability" 
 vowel = "aeiouAEIOU"
