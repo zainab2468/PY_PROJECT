@@ -1,7 +1,9 @@
 #reversing a string
 word = "was it a cat i saw"
-reverse = word[::1] #this doesn't work
+#reverse = word[::1] #this doesn't work
 print(reverse)
+
+reverse = word[::-1] #the minus sign 
 
 
 
