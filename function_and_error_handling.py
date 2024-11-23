@@ -4,7 +4,7 @@
 
 def mean(x,y):
     try:
-        result = x // y
+        result = x // y #why the use of //
         print(result)
     except ZeroDivisionError:
         print("Division by zero")

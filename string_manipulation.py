@@ -1,6 +1,6 @@
 #reversing a string
 word = "was it a cat i saw"
-reverse = word[::1]
+reverse = word[::1] #this doesn't work
 print(reverse)
 
 
