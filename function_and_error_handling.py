@@ -4,7 +4,7 @@
 
 def mean(x,y):
     try:
-        result = x // y #why the use of //
+        result = x // y #why the use of //       to round up the result to the nearest whole number
         print(result)
     except ZeroDivisionError:
         print("Division by zero")
